@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.lamusica.ArtistsActivity"
+    android:background="@color/colorAccent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/artists_artist1"
+        android:text="@string/artist1"
+        style="@style/MainHeaders"
+        />
+    <TextView
+        android:id="@+id/artists_artist2"
+        android:text="@string/artist2"
+        style="@style/MainHeaders"
+        />
+    <TextView
+        android:id="@+id/artists_artist3"
+        android:text="@string/artist3"
+        style="@style/MainHeaders"
+        />
+</LinearLayout>

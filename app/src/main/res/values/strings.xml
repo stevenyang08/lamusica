@@ -1,0 +1,10 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">La Musica</string>
+    <string name="artistHeader">Artists</string>
+    <string name="songsHeader">Songs</string>
+    <string name="detailHeader">Now Playing</string>
+    <string name="artist1">Alicia Keys</string>
+    <string name="artist2">Metallica</string>
+    <string name="artist3">SCANDAL</string>
+    <string name="detailDefault">Default</string>
+</resources>
