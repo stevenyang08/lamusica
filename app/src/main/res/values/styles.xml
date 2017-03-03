@@ -8,6 +8,17 @@
         <item name="colorAccent">@color/white</item>
     </style>
 
+    <style name="ActivityHeaders" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:layout_marginBottom">12dp</item>
+
+    </style>
+
     <style name="MainHeaders" >
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">@dimen/listHeight</item>
@@ -30,7 +41,7 @@
         <item name="android:layout_height">@dimen/buttonSize</item>
         <item name="android:layout_width">@dimen/buttonSize</item>
         <item name="android:layout_margin">12dp</item>
-        <item name="android:onClick">buttonsClicked</item>
+        <item name="android:onClick">buttonClicked</item>
     </style>
 
 </resources>

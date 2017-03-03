@@ -2,9 +2,13 @@
     <string name="app_name">La Musica</string>
     <string name="artistHeader">Artists</string>
     <string name="songsHeader">Songs</string>
-    <string name="detailHeader">Now Playing</string>
+    <string name="detailHeader">Sonos</string>
     <string name="artist1">Alicia Keys</string>
     <string name="artist2">Metallica</string>
     <string name="artist3">SCANDAL</string>
-    <string name="detailDefault">Default</string>
+    <string name="detailDefault">Unknown</string>
+    <string name="selectList">Select a List</string>
+    <string name="selectArtist">Select an Artist</string>
+    <string name="selectSong">Select a Song</string>
+
 </resources>
